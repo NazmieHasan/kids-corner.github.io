@@ -210,8 +210,9 @@ body {
 
 .opinions {
   margin-top: 30px;
-  margin-bottom: 60px;
+  padding-bottom: 60px;
   word-spacing: 5px;
+  border-bottom: 2px solid #50b9e1;
 }
 .opinions h2 {
   margin-bottom: 20px;
@@ -229,6 +230,19 @@ body {
   color: #50b9e1;
   background: white;
   border: 1px solid #50b9e1;
+}
+
+.events h2 {
+  margin-top: 30px;
+}
+.events h4 {
+  margin-bottom: 30px;
+}
+.events .camp-title {
+  font-size: 22px;
+}
+.events h6 {
+  font-size: 18px;
 }
 
 .footer-custom {
