@@ -244,10 +244,10 @@ body {
 .events h6 {
   font-size: 18px;
 }
-.jury p, .participants p {
+.custom-p p {
   margin-bottom: 0;
 }
-.jury p:last-child, .participants p:last-child {
+.custom-p p:last-child {
   margin-bottom: 1rem;
 }
 
