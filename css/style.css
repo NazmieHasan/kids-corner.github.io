@@ -164,7 +164,7 @@ body {
   cursor: pointer;
 }
 .camps button {
-   margin-bottom: 30px;
+   margin-bottom: 50px;
    padding: 5px;  
    background: white; 
    color: #50b9e1;
@@ -243,6 +243,12 @@ body {
 }
 .events h6 {
   font-size: 18px;
+}
+.jury p, .participants p {
+  margin-bottom: 0;
+}
+.jury p:last-child, .participants p:last-child {
+  margin-bottom: 1rem;
 }
 
 .footer-custom {
