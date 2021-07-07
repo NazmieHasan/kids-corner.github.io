@@ -283,6 +283,12 @@ body {
 .footer-down-center, .footer-down-right {
   color: #5a7c8a;
 }
+.info-site {
+  word-spacing: 4px;
+}
+.info-sup sup {
+  font-size: 14px;
+}
 .scroll-site {
   font-size: 30px;
 }
