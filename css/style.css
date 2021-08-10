@@ -226,6 +226,9 @@ body {
   border-radius: 50%;
   border: 3px solid #50b9e1;
 }
+.opinions p {
+  font-style: italic;
+}
 .opinions button {
   padding: 5px 15px;
   font-size: 18px;
